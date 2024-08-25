@@ -1,0 +1,4 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArfWjkPZb5Ydl7phNdyvv0pABDiFQ2DpU4A0D6xMbYHr7lP5bydfkoxhsF0oyAfC6PQRejPcXQ0Ojxob8+UgCeMztXreGm2QDXF1Ojf8JbYZV0r4cMXlzUO8TTlZz/gSBoOZzgFw+Gfhv+jf4SpQKISiF6euj7C1UsMzPpY+xAYpDP/Zs9dtsP5GeL8QCHe7Vb7DAqPf3GhZPT4cZ3TdiEpMc1mU5dfEOY5EZ5q2EXAMPLE== user@example.com
+# This is an example public SSH key file.
+# Replace this with your own public key.
+# Use this key for authenticating to your servers or services.

@@ -1,0 +1,9 @@
+# Ignore Vagrant-specific files and directories
+.vagrant/
+
+# Ignore all files in the ssh_keys directory
+ssh_keys/*
+
+# Exception: Do not ignore example SSH key files
+!ssh_keys/example.id_rsa
+!ssh_keys/example.id_rsa.pub
